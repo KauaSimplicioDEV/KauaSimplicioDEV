@@ -37,7 +37,7 @@ Focused on building a solid backend foundation, understanding data modeling, API
 
 🔹 **[Bewear E-commerce](https://github.com/KauaSimplicioDEV/bewear-bootcamp-project)**  
 
-🔹 **[Grocery List Project](https://github.com/KauaSimplicioDEV/grocery-project)**
+🔹 **[Grocery List App](https://github.com/KauaSimplicioDEV/grocery-project)**
 
 ---
 
