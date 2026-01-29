@@ -27,6 +27,8 @@ I enjoy understanding the logic behind the code and applying it to real projects
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Backend](https://img.shields.io/badge/Backend_Architecture-000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
 
 Focused on building a solid backend foundation, understanding data modeling, APIs, and application architecture.
 
