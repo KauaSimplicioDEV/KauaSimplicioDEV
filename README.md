@@ -21,11 +21,11 @@ I enjoy understanding the logic behind the code and applying it to real projects
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ---
 
 ## 📚 Currently learning
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Backend](https://img.shields.io/badge/Backend_Architecture-000?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
