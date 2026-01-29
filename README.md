@@ -33,11 +33,11 @@ Focused on building a solid backend foundation, understanding data modeling, API
 
 ## 📌 Featured Projects
 
-🔹 **[Project Name](https://github.com/KauaSimplicioDEV/detroid-project)**  
+🔹 **[Detroid Project](https://github.com/KauaSimplicioDEV/detroid-project)**  
 
-🔹 **[Project Name](https://github.com/KauaSimplicioDEV/bewear-bootcamp-project)**  
+🔹 **[Bewear E-commerce](https://github.com/KauaSimplicioDEV/bewear-bootcamp-project)**  
 
-🔹 **[Project Name](https://github.com/KauaSimplicioDEV/grocery-project)**
+🔹 **[Grocery List Project](https://github.com/KauaSimplicioDEV/grocery-project)**
 
 ---
 
