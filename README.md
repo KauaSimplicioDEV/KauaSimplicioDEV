@@ -2,8 +2,7 @@
 
 A Fullstack Web Developer ✨🌐
 
-🎓 Computer Science student  
-💼 Currently working as a Web Developer Junior  
+🎓 Computer Science student
 
 ---
 
