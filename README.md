@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Kauã
 
-Junior Web Developer ✨  
-Frontend Developer, but growing toward Full Stack ⏳
+A Fullstack Web Developer ✨🌐
 
 🎓 Computer Science student  
 💼 Currently working as a Web Developer Junior  
