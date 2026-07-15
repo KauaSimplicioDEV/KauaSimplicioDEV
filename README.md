@@ -85,6 +85,17 @@ https://github.com/KauaSimplicioDEV/bewear-bootcamp-project
 
 ---
 
+---
+
+### 🌦️ Weather Project
+
+A weather application built with Next.js that consumes a public weather API to provide real-time forecasts through a responsive and intuitive user interface.
+
+**Repository:**  
+https://github.com/KauaSimplicioDEV/weather-project
+
+---
+
 ### 🚀 Detroit Project
 
 A modern web application focused on responsive design, reusable components, and a clean user experience.
