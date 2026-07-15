@@ -37,7 +37,16 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+### CMS
+
+![Strapi](https://img.shields.io/badge/Strapi-000?style=for-the-badge&logo=strapi)
 
 ### Tools
 
