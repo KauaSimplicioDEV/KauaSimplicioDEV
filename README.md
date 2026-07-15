@@ -111,4 +111,4 @@ https://github.com/KauaSimplicioDEV/detroid-project
 https://github.com/KauaSimplicioDEV
 
 **LinkedIn**  
-https://www.linkedin.com/in/kauã-simplicio-0220b51b4
+https://www.linkedin.com/in/kaua-simplicio
