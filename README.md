@@ -13,7 +13,7 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 - 💼 Full Stack Developer
 - 🎓 B.Sc. in Computer Science
 - 🌐 Passionate about Web Development, Software Architecture, and Performance
-- 📚 Currently focused on Backend Engineering, Go, and System Design
+- 📚 Currently deepening my knowledge of Backend Engineering and System Design.
 - 🇨🇦 Long-term goal: Building an international career as a Software Engineer
 
 ---
