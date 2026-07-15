@@ -72,7 +72,7 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 A modern quiz platform that allows users to create, manage, and answer interactive quizzes with a responsive and intuitive interface.
 
 **Repository:**  
-https://github.com/KauaSimplicioDEV/quizify-main
+https://github.com/MuriloNovaes/quizify
 
 ---
 
