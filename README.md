@@ -1,47 +1,92 @@
-# 👋 Hi, I'm Kauã
+# Hi, I'm Kauã Simplicio 👋
 
-A Fullstack Web Developer ✨🌐
+**Full Stack Developer** focused on building modern, scalable, and high-performance web applications.
 
-🎓 Computer Science student
+Currently working with **Next.js, React, TypeScript, and Node.js**, developing production-ready solutions, CMS-driven websites, API integrations, and internal systems while continuously expanding my backend expertise.
 
----
-
-## 🚀 What I do
-I build responsive and well-structured web interfaces using modern JavaScript tools.  
-I enjoy understanding the logic behind the code and applying it to real projects.
+I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my knowledge of software engineering, algorithms, databases, and system architecture.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- 💼 Full Stack Developer
+- 🎓 B.Sc. in Computer Science
+- 🌐 Passionate about Web Development, Software Architecture, and Performance
+- 📚 Currently focused on Backend Engineering, Go, and System Design
+- 🇨🇦 Long-term goal: Building an international career as a Software Engineer
+
+---
+
+## Tech Stack
+
+### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
----
 
-## 📚 Currently learning
-![Backend](https://img.shields.io/badge/Backend_Architecture-000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+### Tools
 
-Focused on building a solid backend foundation, understanding data modeling, APIs, and application architecture.
-
----
-
-## 📌 Featured Projects
-
-🔹 **[Detroid Project](https://github.com/KauaSimplicioDEV/detroid-project)**  
-
-🔹 **[Bewear E-commerce](https://github.com/KauaSimplicioDEV/bewear-bootcamp-project)**  
-
-🔹 **[Grocery List App](https://github.com/KauaSimplicioDEV/grocery-project)**
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
 ---
 
-## 📫 Let's connect
-- GitHub: https://github.com/KauaSimplicioDEV
-- LinkedIn: https://linkedin.com/in/kauã-simplicio-0220b51b4
+## Featured Projects
+
+### 🚀 Detroit Project
+
+A modern web application focused on responsive design, reusable components, and a clean user experience.
+
+**Repository:**  
+https://github.com/KauaSimplicioDEV/detroid-project
+
+---
+
+### 🛍️ Bewear E-commerce
+
+An e-commerce application demonstrating scalable frontend architecture, responsive layouts, and modern React development.
+
+**Repository:**  
+https://github.com/KauaSimplicioDEV/bewear-bootcamp-project
+
+---
+
+### 🛒 Grocery List App
+
+A full-stack grocery list application built to practice CRUD operations, backend integration, and clean application structure.
+
+**Repository:**  
+https://github.com/KauaSimplicioDEV/grocery-project
+
+---
+
+## Currently Learning
+
+- Node.js
+- NestJS
+- Go
+- Software Architecture
+- System Design
+- Performance & Caching
+
+---
+
+## Connect with Me
+
+**GitHub**  
+https://github.com/KauaSimplicioDEV
+
+**LinkedIn**  
+https://www.linkedin.com/in/kauã-simplicio-0220b51b4
