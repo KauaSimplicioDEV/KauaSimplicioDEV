@@ -1,6 +1,6 @@
 # Hi, I'm Kauã Simplicio 👋
 
-**Full Stack Developer Jr.** focused on building modern, scalable, and high-performance web applications.
+**Full Stack Developer** focused on building modern, scalable, and high-performance web applications.
 
 Currently working with **Next.js, React, TypeScript, and Node.js**, developing production-ready solutions, CMS-driven websites, API integrations, and internal systems while continuously expanding my backend expertise.
 
@@ -10,10 +10,10 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 
 ## About Me
 
-- 💼 Full Stack Developer Jr.
+- 💼 Full Stack Developer
 - 🎓 B.Sc. in Computer Science
 - 🌐 Passionate about Web Development, Software Architecture, and Performance
-- **Long-term goal:** Building an international career as a Software Engineer
+- 🌎 Long-term goal: Building an international career as a Software Engineer
 
 ---
 
@@ -22,6 +22,8 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 - Software Architecture
 - System Design
 - Cloud Computing
+
+---
 
 ## Tech Stack
 
@@ -36,6 +38,8 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 
 ### Databases
@@ -43,6 +47,10 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+### Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-000?style=for-the-badge&logo=vitest)
 
 ### CMS
 
@@ -83,17 +91,6 @@ A full-stack grocery list application built to practice CRUD operations, backend
 
 **Repository:**  
 https://github.com/KauaSimplicioDEV/grocery-project
-
----
-
-## Currently Learning
-
-- Node.js
-- NestJS
-- Go
-- Software Architecture
-- System Design
-- Performance & Caching
 
 ---
 
