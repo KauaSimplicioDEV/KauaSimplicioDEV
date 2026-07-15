@@ -11,7 +11,7 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 ## About Me
 
 - 💼 Full Stack Developer
-- 🎓 B.Sc. in Computer Science
+- 🎓 B.Sc. in Computer Science - 6/8
 - 🌐 Passionate about Web Development, Software Architecture, and Performance
 - 🌎 Long-term goal: Building an international career as a Software Engineer
 
