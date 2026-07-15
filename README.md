@@ -14,7 +14,7 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 - 🎓 B.Sc. in Computer Science
 - 🌐 Passionate about Web Development, Software Architecture, and Performance
 - 📚 Currently deepening my knowledge of Backend Engineering and System Design.
-- 🇨🇦 Long-term goal: Building an international career as a Software Engineer
+- **Long-term goal:** Building an international career as a Software Engineer
 
 ---
 
