@@ -67,12 +67,12 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 
 ## Featured Projects
 
-### 🚀 Detroit Project
+### 👾 Quizify App
 
-A modern web application focused on responsive design, reusable components, and a clean user experience.
+A modern quiz platform that allows users to create, manage, and answer interactive quizzes with a responsive and intuitive interface.
 
 **Repository:**  
-https://github.com/KauaSimplicioDEV/detroid-project
+https://github.com/KauaSimplicioDEV/quizify-main
 
 ---
 
@@ -85,12 +85,12 @@ https://github.com/KauaSimplicioDEV/bewear-bootcamp-project
 
 ---
 
-### 🛒 Grocery List App
+### 🚀 Detroit Project
 
-A full-stack grocery list application built to practice CRUD operations, backend integration, and clean application structure.
+A modern web application focused on responsive design, reusable components, and a clean user experience.
 
 **Repository:**  
-https://github.com/KauaSimplicioDEV/grocery-project
+https://github.com/KauaSimplicioDEV/detroid-project
 
 ---
 
