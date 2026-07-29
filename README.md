@@ -1,6 +1,6 @@
 # Hi, I'm Kauã Simplicio 👋
 
-**Full Stack Developer** focused on building modern, scalable, and high-performance web applications.
+**Frontend Developer** focused on building modern, scalable, and high-performance web applications.
 
 Currently working with **Next.js, React, TypeScript, and Node.js**, developing production-ready solutions, CMS-driven websites, API integrations, and internal systems while continuously expanding my backend expertise.
 
@@ -10,7 +10,7 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 
 ## About Me
 
-- 💼 Full Stack Developer
+- 💼 Frontend Developer since 2024
 - 🎓 B.Sc. in Computer Science - 6/8
 - 🌐 Passionate about Web Development, Software Architecture, and Performance
 - 🌎 Long-term goal: Building an international career as a Software Engineer
