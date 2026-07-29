@@ -67,12 +67,12 @@ I'm also pursuing a **Bachelor's degree in Computer Science**, where I deepen my
 
 ## Featured Projects
 
-### 👾 Quizify App
+### 👾 Daily Diet App
 
-A modern quiz platform that allows users to create, manage, and answer interactive quizzes with a responsive and intuitive interface.
+A backend application for managing daily meals, featuring user authentication, meal tracking, and diet performance statistics.
 
 **Repository:**  
-https://github.com/MuriloNovaes/quizify
+https://github.com/KauaSimplicioDEV/daily-diet-project
 
 ---
 
@@ -82,8 +82,6 @@ An e-commerce application demonstrating scalable frontend architecture, responsi
 
 **Repository:**  
 https://github.com/KauaSimplicioDEV/bewear-bootcamp-project
-
----
 
 ---
 
